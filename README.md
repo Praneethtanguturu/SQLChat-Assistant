@@ -49,7 +49,7 @@ The system is intelligent enough to generate accurate queries for given question
 
 1. Run the Streamlit app by executing:
 ```bash
-streamlit run main.py
+python -m streamlit run main.py
 
 ```
 
